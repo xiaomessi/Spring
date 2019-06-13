@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/fehead-security" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fehead-security-app" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fehead-security-browser" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fehead-security-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fehead-security-demo" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
